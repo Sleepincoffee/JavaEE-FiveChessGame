@@ -1,2 +1,10 @@
-# JavaEE-FiveChessGame
-It's a game writed whit javaee.
+# 水墨五子棋
+使用Java SE 技术开发五子棋功能  
+功能完成
+- 人机对战
+- 单机双人对战
+- 残局读取保存
+- 截图
+- 头像更改
+- 计时
+- 弹窗
